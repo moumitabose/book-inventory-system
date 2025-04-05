@@ -17,7 +17,7 @@ import static org.junit.jupiter.api.Assertions.assertNotNull;
 
 
 @ExtendWith(MockitoExtension.class)
-public class BookServiceImplTest {
+ class BookServiceImplTest {
 
     @Mock
     private BookRepository bookRepository;

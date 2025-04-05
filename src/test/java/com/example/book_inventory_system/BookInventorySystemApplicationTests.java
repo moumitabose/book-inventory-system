@@ -8,6 +8,7 @@ class BookInventorySystemApplicationTests {
 
 	@Test
 	void contextLoads() {
+		//started test class
 	}
 
 }
